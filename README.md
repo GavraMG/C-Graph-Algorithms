@@ -1,9 +1,5 @@
 # 🌐 Graph Traversal and Shortest Path Algorithms - C Programming Project
 
-<p align="center">
-  <img width="700" alt="Graph Traversal Screenshot" src="https://example.com/graph-traversal-screenshot.png">
-</p>
-
 ## 📖 Table of Contents
 
 - [About My Project](#-about-my-project)
